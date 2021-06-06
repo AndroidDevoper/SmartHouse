@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="weaher_loader">111</integer>
+    <integer name="server_connection_loader">112</integer>
+    <integer name="server_request_loader">113</integer>
+    <integer name="weather_list_loader">114</integer>
+</resources>

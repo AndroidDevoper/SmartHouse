@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LoaderWeather/app/Loader.iml" filepath="$PROJECT_DIR$/../LoaderWeather/app/Loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyApplication.iml" filepath="$PROJECT_DIR$/../MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../libNote/libNote.iml" filepath="$PROJECT_DIR$/../libNote/libNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabletapp.iml" filepath="$PROJECT_DIR$/tabletapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testclient/testclient.iml" filepath="$PROJECT_DIR$/../testclient/testclient.iml" />
+    </modules>
+  </component>
+</project>

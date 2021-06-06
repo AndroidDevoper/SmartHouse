@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabletApp</string>
+    <string name="text_btn_tablen">Экран</string>
+    <string name="text_btn_controller">Пульт</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_btn_positive">Да</string>
+    <string name="text_btn_negative">Удалить</string>
+    <string name="text_btn_neutral">Нет</string>
+</resources>
